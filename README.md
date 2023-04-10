@@ -1,4 +1,4 @@
-# gokhanBozkrt.github.io
+*Privacy Policy*
 
 KVKK ve Gizlilik
 
@@ -122,3 +122,6 @@ Aktarıldığı 3. kişilere yukarıda sayılan (e) ve (f) bentleri uyarınca ya
 Münhasıran otomatik sistemler ile analiz edilmesi nedeniyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme,
 Kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme haklarına sahipsiniz.
 KVK Kanunu’nun 13. maddesinin 1. fıkrası gereğince, yukarıda belirtilen haklarınızı kullanmak ile ilgili talebinizi, yazılı olarak veya Kişisel Verileri Koruma Kurulu’nun belirlediği diğer yöntemlerle tarafımıza iletebilirsiniz.
+
+Gizlilik poltikası hakkında görüş ve önerileriniz için bozkurtgokhan92@icloud.com adresine mail atablirisiniz.
+
